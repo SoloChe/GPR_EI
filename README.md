@@ -6,3 +6,6 @@ Python code for the paper __'Multi-fidelity modeling in sequential design for st
 3. __GP.py__: code Gaussian process regression (GPR) 
 4. __sci_tfem.py__: code for tfem method for the 2nd case study
 5. __main.py__: code for the whole experiment and experiment settings can be found in it
+
+The full text can be found [here].
+[here]:https://www.researchgate.net/publication/335647101_Multi-fidelity_modeling_in_sequential_design_for_stability_identification_in_dynamic_time-delay_systems
